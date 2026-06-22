@@ -15,6 +15,17 @@ An automated, low-code application built on the ServiceNow platform (Creator Stu
 * **Data Modeling & Security:** Custom scoping, Table Configurations, and Access Control Lists (ACLs).
 * **UI/UX:** Configurable Workspace Views & Record Forms.
 
+## 🖼️ Application Interface
+
+### 1. Student Leave Request Form (Intake Portal)
+![Student Leave Request Form](form_view.png)
+
+### 2. Creator Studio Workspace View
+![Creator Studio Workspace View](workspace_view.png)
+
+### 3. Automated Approval Routing Lifecycle
+![Automated Approval Routing Lifecycle](approver_view.png)
+
 
 ## ⚙️ How to Import This Project
 To view or test this application in your own ServiceNow Personal Developer Instance (PDI):
