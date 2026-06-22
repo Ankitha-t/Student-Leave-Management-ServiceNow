@@ -18,13 +18,13 @@ An automated, low-code application built on the ServiceNow platform (Creator Stu
 ## 🖼️ Application Interface
 
 ### 1. Student Leave Request Form (Intake Portal)
-![Student Leave Request Form](form_view.png)
+![Student Leave Request Form](Leave%20Request_Form.png)
 
 ### 2. Creator Studio Workspace View
-![Creator Studio Workspace View](workspace_view.png)
+![Creator Studio Workspace View](Workspace_view.png)
 
 ### 3. Automated Approval Routing Lifecycle
-![Automated Approval Routing Lifecycle](approver_view.png)
+![Automated Approval Routing Lifecycle](Approver_view.png)
 
 
 ## ⚙️ How to Import This Project
